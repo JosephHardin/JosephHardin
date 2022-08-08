@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JosephHardin
-- 👀 I’m interested in automating household task with robotics
+- 👀 I’m interested in learning how to answer more questions.
 
 
 <!---
